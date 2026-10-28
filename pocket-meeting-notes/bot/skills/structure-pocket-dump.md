@@ -10,4 +10,5 @@ description: Use when the user pastes a rough voice dump, bullet mess, or partia
 4. Turn commitments into **action items** with `owner`, `task`, and `due` when stated.
 5. Write concise `bodyMarkdown` with sections: Summary, Decisions, Action items, Open questions.
 6. Call `save_meeting_note` with the structured fields. Include `raw` when the dump is messy.
-7. Reply with the saved note id, a 2–4 sentence summary, and action items as a checklist.
+7. If the user named Notion and/or Obsidian, publish with those tools after save.
+8. Reply with the saved note id, a 2–4 sentence summary, action items as a checklist, and destination links/paths.

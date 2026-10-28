@@ -2,7 +2,7 @@
   "name": "pocket-meeting-notes",
   "private": true,
   "type": "module",
-  "description": "Pocket meeting notes agent: structure dumps, save decisions and action items, recall prior notes.",
+  "description": "Pocket meeting notes agent: structure dumps, save locally, publish to Notion and/or Obsidian.",
   "scripts": {
     "check": "tsc --noEmit",
     "dev": "agent-sdk dev"
